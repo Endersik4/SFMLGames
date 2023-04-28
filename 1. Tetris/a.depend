@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1598889329 source:c:\users\adam\desktop\a\untitled1.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+
+1599062593 source:c:\users\adam\desktop\1gra(tetris)\untitled1.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+
+1599064168 source:e:\rzeczy\programowanie\c++\c++ gry(z kodem)\1gra(tetris)\untitled1.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<windows.h>
+

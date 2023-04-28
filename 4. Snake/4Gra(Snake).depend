@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601498298 source:c:\users\adam\desktop\4gra(snake)\untitled2.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+	<windows.h>
+	<iostream>
+	<sstream>
+
+1601494698 source:e:\rzeczy\programowanie\c++\c++ gry(z kodem)\4gra(snake)\untitled2.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+	<windows.h>
+	<iostream>
+	<sstream>
+

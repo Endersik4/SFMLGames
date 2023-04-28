@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1602416801 source:c:\users\adam\desktop\11gra(tanks!)\tanks.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1605443606 source:c:\users\adam\desktop\11gra(grandtanks!)\tanks.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<iostream>
+	<windows.h>
+	<sstream>
+
+1611683609 source:e:\rzeczy\programowanie\c++\c++ gry(z kodem)\11gra(grandtanks!)\tanks.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<iostream>
+	<windows.h>
+	<sstream>
+	<fstream>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1600947808 source:c:\users\adam\desktop\3gra(arkanoid)\untitled2.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	<iostream>
+	<sstream>
+
+1600947808 source:e:\prezentacje\programowanie\c++\c++ gry(z kodem)\3gra(arkanoid)\untitled2.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	<iostream>
+	<sstream>
+
+1602604535 source:e:\rzeczy\programowanie\c++\c++ gry(z kodem)\3gra(arkanoid)\untitled2.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	<iostream>
+	<sstream>
+

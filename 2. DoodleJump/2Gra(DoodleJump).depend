@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1599393626 source:c:\users\adam\desktop\2gra(doodlejump)\untitled1.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<iostream>
+	<sstream>
+	<windows.h>
+
+1599314016 source:c:\users\adam\desktop\2gra(doodlejump) — kopia\untitled1.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+	<iostream>
+	<sstream>
+
+1599392704 source:e:\rzeczy\programowanie\c++\c++ gry(z kodem)\2gra(doodlejump)\untitled1.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<iostream>
+	<sstream>
+	<windows.h>
+
